@@ -1,6 +1,6 @@
 -  Hello there, I’m @Fiyl
 -  I’m interested in Game Dev and a lot of other things
--  I’m currently learning Game Design and 2D Game programming in Godot.
+-  I’m currently learning Game Design and Game programming in Unity.
 - Reach out to me @Fiyl on discord
 - Pronouns: He/Him
 
